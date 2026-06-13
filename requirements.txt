@@ -1,0 +1,4 @@
+opencv_python==4.13.0.92
+segmentation_models_pytorch==0.5.0
+torch==2.10.0+cu126
+torchvision==0.25.0+cu126
